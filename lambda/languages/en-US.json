@@ -1,0 +1,34 @@
+{
+    "SKILL_NAME": "the Dabble Lab customer information example template",
+    "WELCOME": [
+      "Welcome to {}. You can say: what's my name, what's my email, or, what's my phone number."
+    ],
+    "WELCOME_REPROMPT": [
+      "Say: what's my name, what's my email, or, what's my phone number."
+    ],
+    "HELP": [
+      "Try asking me for your name, email or phone number."
+    ],
+    "HELP_REPROMPT": [
+      "You can ask me for your name, email or phone number to confirm if I can access it."
+    ],
+    "FALLBACK": [
+      "Sorry, I didn't understand that. You can say: what is my name, what is my email or what is my mobile number to continue."
+    ],
+    "FALLBACK_REPROMPT": [
+      "Say: what is my name, what is my email or what is my mobile number to continue."
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Goodbye!"
+    ],
+    "REPROMPT": "What else would you like to know?",
+    "NOTIFY_MISSING_PERMISSIONS": "Please enable profile permissions in the Amazon Alexa app.",
+    "NO_NAME": "It looks like you don't have your name set. You can set it from the Alexa companion app.",
+    "NO_EMAIL": "It looks like you don't have your email set. You can set it from the Alexa companion app.",
+    "NO_MOBILE": "It looks like you don't have your mobile number set. You can set it from the Alexa companion app.",
+    "TELL_NAME": "Your name is {}.",
+    "TELL_EMAIL": "Your email is {}.",
+    "TELL_MOBILE": "Your mobile number is <say-as interpret-as='telephone'> {} </say-as>",
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}
